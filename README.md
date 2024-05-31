@@ -1,51 +1,49 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Apresentação Pessoal Interativa com HeyGen e ChatGPT
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Utilizei o HeyGen para criar um avatar digital que me representasse de forma visual e auditiva.
+Personalizei o avatar para que tivesse características semelhantes às minhas.(menos a voz, só apareceu opções femininas no site)
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ChatGPT](https://chat.openai.com/) - para montar o script e o prompt do personagem.
+- [HeyGen](https://app.heygen.com) - para criação do avatar e do video.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com o auxílio do ChatGPT, desenvolvi o roteiro da apresentação.
+Para o roteiro utilizei o prompt abaixo:
+Faça uma apresentação sobre mim:
+***
+{RESUMO} 
+[NOME] Alan
+[FORMACAO] Física
+[PROFISSAO] Professor
+[ESTUDO] Engenharia da Computação
+[DESEJO] Programador
+{ROTEIRO}
+Olá eu sou [NOME] sou formado em [FORMACAO] e atualmente trabalho como [PROFESSOR], atualmente estou estudando [ESTUDO] e planejo mudar de área e me tornar [DESEJO] 
+{REGRAS}
+> A apresentação deve ser feita em português brasileiro
+> Deve ser curta 
+> demostrar desejo em mudar de área
+> Deve ser feito tudo junto
+***
+Após a criação da apresentação fiz pequenos ajustes.
+Ainda no ChatGPT utilizei o prompt abaixo para criar um personagem com minhas caracteristicas:
+***
+crie um prompt em ingles para o stable diffusion para criar um personagem de anime masculino com cabelos azuir e moicano e sem fundo.
+***
+Por fim utilizei o prompt no site para gerar o avatar e o utilizei para gerar vo video.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Ao concluir o projeto consegui perceber que o acesso gratuito dessas plataformas gera alguns problemas, como não conseguir a voz que eu queria e a retratação de um avatar do tipo anime ter ficado um pouco estranho.
+Por outro lado a agilidade para criar um personagem que falasse um script, mostra que coisas com um pouco de conhecimento é fácil colocar uma ideia em pratica.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
